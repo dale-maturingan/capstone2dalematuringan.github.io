@@ -8,7 +8,7 @@ body {
 }
 
 .space_div{
-    background-image: url("./backgrounds/sky_and_space.jpg");
+    background-image: url("./sky_and_space.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
@@ -83,7 +83,7 @@ footer {
     text-align: center;
     color: white;
     margin-top: 20px;
-    background-image: url("./backgrounds/sky_and_space.jpg");
+    background-image: url("./sky_and_space.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
